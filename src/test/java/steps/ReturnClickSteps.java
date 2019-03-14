@@ -1,4 +1,4 @@
 package steps;
 
-public class ReturnClickSteps {
+public class ReturnClickSteps extends BaseSteps{
 }

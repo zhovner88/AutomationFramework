@@ -1,4 +1,4 @@
 package steps;
 
-public class ValidationSteps {
+public class ValidationSteps extends BaseSteps{
 }

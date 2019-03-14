@@ -1,4 +1,4 @@
 package steps;
 
-public class NonDynamicTableSteps {
+public class NonDynamicTableSteps extends BaseSteps{
 }

@@ -1,4 +1,4 @@
 package steps;
 
-public class VoidClickSteps {
+public class VoidClickSteps extends BaseSteps{
 }

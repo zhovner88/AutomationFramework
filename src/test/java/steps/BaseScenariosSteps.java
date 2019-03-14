@@ -1,4 +1,4 @@
 package steps;
 
-public class BaseScenariosSteps {
+public class BaseScenariosSteps extends BaseSteps {
 }

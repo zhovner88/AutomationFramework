@@ -1,4 +1,4 @@
 package steps;
 
-public class DynamicTableSteps {
+public class DynamicTableSteps extends BaseSteps {
 }

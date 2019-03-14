@@ -1,4 +1,4 @@
 package steps;
 
-public class SendKeysSteps {
+public class SendKeysSteps extends BaseSteps{
 }
